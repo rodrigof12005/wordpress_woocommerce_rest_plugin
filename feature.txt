@@ -1,2 +1,3 @@
 minha feature
 Ajustado na release
+Correção aplicada
